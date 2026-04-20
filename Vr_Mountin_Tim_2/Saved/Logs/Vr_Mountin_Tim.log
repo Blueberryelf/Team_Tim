@@ -1341,3 +1341,342 @@ FPackageName: Skipped package /Game/VRTemplate/Maps/VRTemplateMap_BuiltData has 
 [2026.04.20-18.50.54:615][365]    Primitive StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Cube_8.StaticMeshComponent0
 [2026.04.20-18.50.54:615][365]    Primitive StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.TemplateFloor_13.StaticMeshComponent0
 [2026.04.20-18.50.54:615][365]    Primitive StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.TemplateFloor_18.StaticMeshComponent0
+[2026.04.20-18.51.39:151][ 14]LogDerivedDataCache: C:/Users/blueb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.20-18.55.23:474][686]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 325.806335
+[2026.04.20-18.55.24:474][689]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-18.55.24:474][690]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 326.473145, Update Interval: 331.328461
+[2026.04.20-18.56.31:560][ 66]LogSlate: Took 0.007788 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.04.20-18.56.31:671][ 70]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.04.20-18.56.31:671][ 70]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_0'.
+[2026.04.20-18.57.24:266][490]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.04.20-18.57.24:298][490]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.04.20-18.57.24:306][490]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.04.20-18.57.24:339][491]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.04.20-18.57.31:222][816]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2026.04.20-18.57.31:239][816]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.04.20-18.57.53:002][164]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> W_Timer
+[2026.04.20-18.57.53:120][164]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-18.57.53:121][164]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/W_Timer] ([2] browsable assets)...
+[2026.04.20-18.57.53:130][164]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/W_Timer.W_Timer]
+[2026.04.20-18.57.53:130][164]OBJ SavePackage: Finished generating thumbnails for package [/Game/W_Timer]
+[2026.04.20-18.57.53:131][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/W_Timer" FILE="../../../../../../Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Content/W_Timer.uasset" SILENT=true
+[2026.04.20-18.57.53:150][164]LogSavePackage: Moving output files for package: /Game/W_Timer
+[2026.04.20-18.57.53:150][164]LogSavePackage: Moving '../../../../../../Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Saved/W_TimerFE29FB4F45E48B8817CA01A08F61B5A0.tmp' to '../../../../../../Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Content/W_Timer.uasset'
+[2026.04.20-18.57.53:158][164]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.354 ms
+[2026.04.20-18.57.53:284][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.04.20-18.57.53:307][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.04.20-18.57.53:329][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.04.20-18.57.53:368][164]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-18.57.53:368][164]LogContentValidation: Enabled validators:
+[2026.04.20-18.57.53:368][164]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-18.57.53:368][164]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-18.57.53:368][164]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-18.57.53:368][164]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-18.57.53:368][164]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-18.57.53:368][164]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-18.57.53:370][164]AssetCheck: /Game/W_Timer Validating asset
+[2026.04.20-18.57.53:408][164]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.20-18.58.05:389][658]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/W_Timer.W_Timer
+[2026.04.20-18.58.05:389][658]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.04.20-18.58.05:389][658]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_2'.
+[2026.04.20-18.58.05:398][658]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.04.20-18.58.05:399][658]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_3'.
+[2026.04.20-18.58.05:406][658]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2026.04.20-18.58.05:471][658]LogStreaming: Display: FlushAsyncLoading(343): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.20-18.58.08:145][658]LogSlate: Took 0.006136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.04.20-18.58.08:165][658]LogSlate: Took 0.006082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.04.20-19.00.59:250][103]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 661.581299
+[2026.04.20-19.01.00:249][106]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-19.01.00:249][106]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 662.253357, Update Interval: 348.978546
+[2026.04.20-19.01.08:556][250]LogSlate: Took 0.009318 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2026.04.20-19.01.48:890][167]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2026.04.20-19.01.48:893][167]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.059
+[2026.04.20-19.01.48:893][167]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/W_Timer] ([2] browsable assets)...
+[2026.04.20-19.01.48:899][167]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/W_Timer.W_Timer]
+[2026.04.20-19.01.48:899][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/W_Timer]
+[2026.04.20-19.01.48:899][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/W_Timer" FILE="../../../../../../Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Saved/Autosaves/Game/W_Timer_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2026.04.20-19.01.48:908][167]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/W_Timer_Auto1
+[2026.04.20-19.01.48:909][167]LogSavePackage: Moving '../../../../../../Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Saved/W_Timer_Auto17732BBF042303502CBEF23B4A288BB51.tmp' to '../../../../../../Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Saved/Autosaves/Game/W_Timer_Auto1.uasset'
+[2026.04.20-19.01.48:910][167]LogFileHelpers: Auto-saving content packages took 0.018
+[2026.04.20-19.03.50:616][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2026.04.20-19.03.53:340][227]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-19.03.53:382][227]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/W_Timer] ([2] browsable assets)...
+[2026.04.20-19.03.53:385][227]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/W_Timer.W_Timer]
+[2026.04.20-19.03.53:385][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/W_Timer]
+[2026.04.20-19.03.53:385][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/W_Timer" FILE="../../../../../../Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Content/W_Timer.uasset" SILENT=true
+[2026.04.20-19.03.53:397][227]LogSavePackage: Moving output files for package: /Game/W_Timer
+[2026.04.20-19.03.53:399][227]LogSavePackage: Moving '../../../../../../Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Saved/W_Timer424C126047FA9ABC6C859EA382B63B82.tmp' to '../../../../../../Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Content/W_Timer.uasset'
+[2026.04.20-19.03.53:409][227]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.554 ms (total: 108.909 ms)
+[2026.04.20-19.03.53:441][227]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-19.03.53:441][227]LogContentValidation: Enabled validators:
+[2026.04.20-19.03.53:441][227]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-19.03.53:441][227]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-19.03.53:441][227]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-19.03.53:441][227]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-19.03.53:441][227]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-19.03.53:441][227]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-19.03.53:441][227]AssetCheck: /Game/W_Timer Validating asset
+[2026.04.20-19.05.42:184][596]LogSlate: Took 0.005850 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.04.20-19.06.16:465][375]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2026.04.20-19.06.18:719][588]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-19.06.18:770][588]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/W_Timer] ([2] browsable assets)...
+[2026.04.20-19.06.18:771][588]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/W_Timer.W_Timer]
+[2026.04.20-19.06.18:771][588]OBJ SavePackage: Finished generating thumbnails for package [/Game/W_Timer]
+[2026.04.20-19.06.18:771][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/W_Timer" FILE="../../../../../../Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Content/W_Timer.uasset" SILENT=true
+[2026.04.20-19.06.18:785][588]LogSavePackage: Moving output files for package: /Game/W_Timer
+[2026.04.20-19.06.18:787][588]LogSavePackage: Moving '../../../../../../Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Saved/W_TimerAA9C2C2D43F06CA9A2460BBEAC8478DD.tmp' to '../../../../../../Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Content/W_Timer.uasset'
+[2026.04.20-19.06.18:795][588]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.933 ms (total: 184.842 ms)
+[2026.04.20-19.06.18:827][588]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-19.06.18:827][588]LogContentValidation: Enabled validators:
+[2026.04.20-19.06.18:827][588]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-19.06.18:827][588]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-19.06.18:827][588]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-19.06.18:827][588]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-19.06.18:827][588]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-19.06.18:827][588]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-19.06.18:828][588]AssetCheck: /Game/W_Timer Validating asset
+[2026.04.20-19.06.55:251][464]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1017.580322
+[2026.04.20-19.06.55:926][467]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-19.06.55:926][467]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1017.923096, Update Interval: 352.135376
+[2026.04.20-19.09.36:094][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2026.04.20-19.09.38:299][249]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-19.09.38:349][249]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/W_Timer] ([2] browsable assets)...
+[2026.04.20-19.09.38:351][249]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/W_Timer.W_Timer]
+[2026.04.20-19.09.38:351][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/W_Timer]
+[2026.04.20-19.09.38:351][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/W_Timer" FILE="../../../../../../Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Content/W_Timer.uasset" SILENT=true
+[2026.04.20-19.09.38:366][249]LogSavePackage: Moving output files for package: /Game/W_Timer
+[2026.04.20-19.09.38:368][249]LogSavePackage: Moving '../../../../../../Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Saved/W_TimerB47E97574D5233EB79DE6EB7AF0D33B7.tmp' to '../../../../../../Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Content/W_Timer.uasset'
+[2026.04.20-19.09.38:377][249]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.271 ms (total: 263.113 ms)
+[2026.04.20-19.09.38:407][249]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-19.09.38:407][249]LogContentValidation: Enabled validators:
+[2026.04.20-19.09.38:407][249]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-19.09.38:407][249]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-19.09.38:407][249]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-19.09.38:407][249]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-19.09.38:407][249]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-19.09.38:407][249]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-19.09.38:407][249]AssetCheck: /Game/W_Timer Validating asset
+[2026.04.20-19.12.56:240][113]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1378.576782
+[2026.04.20-19.12.57:240][116]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-19.12.57:240][116]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1379.244507, Update Interval: 320.263062
+[2026.04.20-19.14.16:162][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2026.04.20-19.14.16:164][603]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.045
+[2026.04.20-19.14.16:164][603]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/W_Timer] ([2] browsable assets)...
+[2026.04.20-19.14.16:171][603]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/W_Timer.W_Timer]
+[2026.04.20-19.14.16:171][603]OBJ SavePackage: Finished generating thumbnails for package [/Game/W_Timer]
+[2026.04.20-19.14.16:171][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/W_Timer" FILE="../../../../../../Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Saved/Autosaves/Game/W_Timer_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2026.04.20-19.14.16:190][603]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/W_Timer_Auto2
+[2026.04.20-19.14.16:190][603]LogSavePackage: Moving '../../../../../../Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Saved/W_Timer_Auto2F30BDB45458DCE22A12694BA261036DC.tmp' to '../../../../../../Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Saved/Autosaves/Game/W_Timer_Auto2.uasset'
+[2026.04.20-19.14.16:192][603]LogFileHelpers: Auto-saving content packages took 0.028
+[2026.04.20-19.17.05:783][537]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2026.04.20-19.17.08:666][817]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-19.17.08:722][817]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/W_Timer] ([2] browsable assets)...
+[2026.04.20-19.17.08:724][817]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/W_Timer.W_Timer]
+[2026.04.20-19.17.08:724][817]OBJ SavePackage: Finished generating thumbnails for package [/Game/W_Timer]
+[2026.04.20-19.17.08:724][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/W_Timer" FILE="../../../../../../Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Content/W_Timer.uasset" SILENT=true
+[2026.04.20-19.17.08:740][817]LogSavePackage: Moving output files for package: /Game/W_Timer
+[2026.04.20-19.17.08:743][817]LogSavePackage: Moving '../../../../../../Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Saved/W_TimerE8A66CC84EBA5CD77CB040B59281A2CA.tmp' to '../../../../../../Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Content/W_Timer.uasset'
+[2026.04.20-19.17.08:751][817]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.370 ms (total: 348.483 ms)
+[2026.04.20-19.17.08:787][817]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-19.17.08:787][817]LogContentValidation: Enabled validators:
+[2026.04.20-19.17.08:789][817]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-19.17.08:789][817]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-19.17.08:789][817]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-19.17.08:789][817]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-19.17.08:789][817]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-19.17.08:789][817]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-19.17.08:790][817]AssetCheck: /Game/W_Timer Validating asset
+[2026.04.20-19.18.38:700][483]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1721.036377
+[2026.04.20-19.18.39:699][486]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-19.18.39:699][486]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1721.703857, Update Interval: 338.493591
+[2026.04.20-19.21.34:198][451]LogEditorTransaction: Undo Delete current selection
+[2026.04.20-19.22.07:328][994]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2026.04.20-19.22.09:877][253]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-19.22.09:927][253]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/W_Timer] ([2] browsable assets)...
+[2026.04.20-19.22.09:929][253]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/W_Timer.W_Timer]
+[2026.04.20-19.22.09:929][253]OBJ SavePackage: Finished generating thumbnails for package [/Game/W_Timer]
+[2026.04.20-19.22.09:929][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/W_Timer" FILE="../../../../../../Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Content/W_Timer.uasset" SILENT=true
+[2026.04.20-19.22.09:947][253]LogSavePackage: Moving output files for package: /Game/W_Timer
+[2026.04.20-19.22.09:949][253]LogSavePackage: Moving '../../../../../../Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Saved/W_Timer384F4777494E05B4CD056F9686ED1AB8.tmp' to '../../../../../../Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Content/W_Timer.uasset'
+[2026.04.20-19.22.09:957][253]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.980 ms (total: 428.464 ms)
+[2026.04.20-19.22.09:989][253]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-19.22.09:989][253]LogContentValidation: Enabled validators:
+[2026.04.20-19.22.09:989][253]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-19.22.09:989][253]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-19.22.09:989][253]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-19.22.09:989][253]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-19.22.09:989][253]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-19.22.09:989][253]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-19.22.09:990][253]AssetCheck: /Game/W_Timer Validating asset
+[2026.04.20-19.24.52:516][853]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2094.852051
+[2026.04.20-19.24.52:601][863]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-19.24.52:601][863]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2094.928467, Update Interval: 317.783752
+[2026.04.20-19.30.47:034][885]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2449.385010
+[2026.04.20-19.30.47:119][895]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-19.30.47:119][895]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2449.460205, Update Interval: 355.043182
+[2026.04.20-19.37.21:787][606]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2844.111328
+[2026.04.20-19.37.21:853][614]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-19.37.21:854][614]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2844.170166, Update Interval: 301.353180
+[2026.04.20-19.43.04:333][489]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3186.623779
+[2026.04.20-19.43.04:418][499]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-19.43.04:418][499]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3186.700439, Update Interval: 322.359680
+[2026.04.20-19.49.06:117][ 21]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3548.390381
+[2026.04.20-19.49.06:193][ 30]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-19.49.06:193][ 30]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3548.457520, Update Interval: 356.370728
+[2026.04.20-19.51.39:149][875]LogDerivedDataCache: C:/Users/blueb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.20-19.56.00:538][ 86]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3962.818115
+[2026.04.20-19.56.00:632][ 97]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-19.56.00:632][ 97]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3962.904297, Update Interval: 350.978119
+[2026.04.20-20.02.39:617][628]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4361.958984
+[2026.04.20-20.02.39:704][638]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-20.02.39:704][638]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4362.036621, Update Interval: 355.008392
+[2026.04.20-20.09.07:174][877]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4749.521484
+[2026.04.20-20.09.07:251][886]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-20.09.07:251][886]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4749.589844, Update Interval: 347.077850
+[2026.04.20-20.15.51:154][990]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5153.670410
+[2026.04.20-20.15.51:247][  1]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-20.15.51:247][  1]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5153.755859, Update Interval: 322.518982
+[2026.04.20-20.17.27:875][980]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2026.04.20-20.17.27:878][980]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.040
+[2026.04.20-20.17.27:878][980]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/W_Timer] ([2] browsable assets)...
+[2026.04.20-20.17.27:889][980]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/W_Timer.W_Timer]
+[2026.04.20-20.17.27:889][980]OBJ SavePackage: Finished generating thumbnails for package [/Game/W_Timer]
+[2026.04.20-20.17.27:889][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/W_Timer" FILE="../../../../../../Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Saved/Autosaves/Game/W_Timer_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2026.04.20-20.17.27:909][980]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/W_Timer_Auto3
+[2026.04.20-20.17.27:909][980]LogSavePackage: Moving '../../../../../../Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Saved/W_Timer_Auto37E36313D487BA5264DA2FFA873DF78E0.tmp' to '../../../../../../Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Saved/Autosaves/Game/W_Timer_Auto3.uasset'
+[2026.04.20-20.17.27:911][980]LogFileHelpers: Auto-saving content packages took 0.033
+[2026.04.20-20.21.54:311][  7]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5516.854492
+[2026.04.20-20.21.55:313][ 10]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-20.21.55:313][ 10]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5517.520020, Update Interval: 324.256714
+[2026.04.20-20.28.02:891][283]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5885.439941
+[2026.04.20-20.28.03:905][286]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-20.28.03:905][286]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5886.098633, Update Interval: 318.040100
+[2026.04.20-20.34.10:631][386]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6253.184570
+[2026.04.20-20.34.11:626][389]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-20.34.11:627][389]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6253.829590, Update Interval: 305.703918
+[2026.04.20-20.40.05:666][451]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6608.216309
+[2026.04.20-20.40.06:686][454]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-20.40.06:686][455]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6608.887207, Update Interval: 349.247711
+[2026.04.20-20.46.48:741][660]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7011.287598
+[2026.04.20-20.46.49:741][663]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-20.46.49:741][664]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7011.944824, Update Interval: 351.197845
+[2026.04.20-20.51.39:151][532]LogDerivedDataCache: C:/Users/blueb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.20-20.53.35:124][879]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7417.670410
+[2026.04.20-20.53.36:145][882]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-20.53.36:145][882]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7418.339355, Update Interval: 330.266418
+[2026.04.20-20.59.58:174][ 28]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7800.719727
+[2026.04.20-20.59.59:177][ 31]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-20.59.59:177][ 31]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7801.408203, Update Interval: 313.262726
+[2026.04.20-21.05.46:896][ 74]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8149.444824
+[2026.04.20-21.05.47:894][ 77]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-21.05.47:894][ 78]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8150.120605, Update Interval: 302.204651
+[2026.04.20-21.11.35:618][120]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8498.179688
+[2026.04.20-21.11.36:637][123]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-21.11.36:637][124]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8498.852539, Update Interval: 336.911530
+[2026.04.20-21.17.48:034][237]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8870.604492
+[2026.04.20-21.17.49:012][240]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-21.17.49:012][240]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8871.250000, Update Interval: 325.663025
+[2026.04.20-21.24.07:096][374]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9249.675781
+[2026.04.20-21.24.08:093][377]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-21.24.08:093][378]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9250.351562, Update Interval: 327.279877
+[2026.04.20-21.30.23:807][504]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9626.396484
+[2026.04.20-21.30.24:806][507]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-21.30.24:806][508]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9627.067383, Update Interval: 324.615631
+[2026.04.20-21.36.47:192][654]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10009.778320
+[2026.04.20-21.36.48:213][657]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-21.36.48:213][658]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10010.467773, Update Interval: 359.604492
+[2026.04.20-21.43.22:930][841]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10405.509766
+[2026.04.20-21.43.23:936][844]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-21.43.23:936][844]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10406.192383, Update Interval: 311.047089
+[2026.04.20-21.49.21:987][918]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10764.566406
+[2026.04.20-21.49.22:973][921]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-21.49.22:973][922]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10765.220703, Update Interval: 315.839111
+[2026.04.20-21.51.39:151][330]LogDerivedDataCache: C:/Users/blueb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.20-21.55.26:709][ 12]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11129.286133
+[2026.04.20-21.55.27:698][ 15]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-21.55.27:698][ 15]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11129.956055, Update Interval: 309.686584
+[2026.04.20-22.01.35:436][118]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11498.004883
+[2026.04.20-22.01.36:437][121]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-22.01.36:437][122]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11498.664062, Update Interval: 302.367615
+[2026.04.20-22.07.14:805][136]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11837.367188
+[2026.04.20-22.07.15:805][139]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-22.07.15:805][139]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11838.032227, Update Interval: 352.250732
+[2026.04.20-22.14.05:180][367]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12247.740234
+[2026.04.20-22.14.06:177][370]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-22.14.06:177][371]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12248.405273, Update Interval: 313.119904
+[2026.04.20-22.20.14:566][475]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12617.127930
+[2026.04.20-22.20.15:549][478]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-22.20.15:549][478]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12617.777344, Update Interval: 340.537109
+[2026.04.20-22.26.34:929][616]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12997.478516
+[2026.04.20-22.26.35:929][619]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-22.26.35:929][619]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12998.146484, Update Interval: 332.493042
+[2026.04.20-22.32.44:971][726]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13367.509766
+[2026.04.20-22.32.45:972][729]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-22.32.45:972][729]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13368.177734, Update Interval: 327.783447
+[2026.04.20-22.38.57:019][842]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13739.552734
+[2026.04.20-22.38.58:027][845]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-22.38.58:027][845]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13740.223633, Update Interval: 302.457336
+[2026.04.20-22.44.48:424][896]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14090.958008
+[2026.04.20-22.44.49:405][899]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-22.44.49:405][900]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14091.625000, Update Interval: 357.617737
+[2026.04.20-22.51.29:658][ 98]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14492.197266
+[2026.04.20-22.51.30:636][101]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-22.51.30:636][102]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14492.838867, Update Interval: 308.238159
+[2026.04.20-22.51.39:151][127]LogDerivedDataCache: C:/Users/blueb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.20-22.57.20:693][151]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14843.217773
+[2026.04.20-22.57.21:692][154]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-22.57.21:693][155]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14843.877930, Update Interval: 350.014954
+[2026.04.20-23.03.53:417][329]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15235.928711
+[2026.04.20-23.03.54:407][332]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-23.03.54:407][332]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15236.583008, Update Interval: 346.878265
+[2026.04.20-23.10.27:807][512]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15630.326172
+[2026.04.20-23.10.28:795][515]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-23.10.28:795][516]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15630.983398, Update Interval: 313.627136
+[2026.04.20-23.16.37:519][621]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16000.029297
+[2026.04.20-23.16.38:523][624]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-23.16.38:524][624]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16000.723633, Update Interval: 333.154083
+[2026.04.20-23.22.56:572][758]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16379.063477
+[2026.04.20-23.22.57:575][761]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-23.22.57:575][761]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16379.729492, Update Interval: 353.838318
+[2026.04.20-23.29.46:987][989]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16789.492188
+[2026.04.20-23.29.47:966][992]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-23.29.47:966][992]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16790.144531, Update Interval: 307.146820
+[2026.04.20-23.35.37:034][ 39]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17139.558594
+[2026.04.20-23.35.38:027][ 42]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-23.35.38:027][ 42]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17140.222656, Update Interval: 335.948364
+[2026.04.20-23.41.55:097][173]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17517.615234
+[2026.04.20-23.41.56:086][176]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-23.41.56:086][176]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17518.273438, Update Interval: 357.866760
+[2026.04.20-23.48.42:478][395]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17925.023438
+[2026.04.20-23.48.43:486][398]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-23.48.43:486][399]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17925.691406, Update Interval: 352.847687
+[2026.04.20-23.51.39:151][925]LogDerivedDataCache: C:/Users/blueb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.20-23.55.26:855][608]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18329.392578
+[2026.04.20-23.55.27:852][611]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-23.55.27:852][611]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18330.064453, Update Interval: 347.321381
+[2026.04.20-23.57.48:935][102]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2026.04.20-23.57.52:025][334]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-23.57.52:059][334]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/W_Timer] ([2] browsable assets)...
+[2026.04.20-23.57.52:062][334]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/W_Timer.W_Timer]
+[2026.04.20-23.57.52:062][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/W_Timer]
+[2026.04.20-23.57.52:062][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/W_Timer" FILE="../../../../../../Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Content/W_Timer.uasset" SILENT=true
+[2026.04.20-23.57.52:081][334]LogSavePackage: Moving output files for package: /Game/W_Timer
+[2026.04.20-23.57.52:082][334]LogSavePackage: Moving '../../../../../../Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Saved/W_Timer17D0F0144999BA4B29040686EA3022BA.tmp' to '../../../../../../Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Content/W_Timer.uasset'
+[2026.04.20-23.57.52:094][334]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.970 ms (total: 495.434 ms)
+[2026.04.20-23.57.52:131][334]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-23.57.52:131][334]LogContentValidation: Enabled validators:
+[2026.04.20-23.57.52:131][334]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-23.57.52:131][334]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-23.57.52:131][334]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-23.57.52:131][334]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-23.57.52:131][334]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-23.57.52:131][334]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-23.57.52:132][334]AssetCheck: /Game/W_Timer Validating asset
+[2026.04.20-23.57.55:375][585]LogSlate: Window 'W_Timer' being destroyed
+[2026.04.20-23.57.55:387][585]LogSlate: Window 'W_Timer' being destroyed
+[2026.04.20-23.57.55:495][585]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-23.57.55:499][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-23.57.55:530][585]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-23.57.55:530][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-23.57.55:698][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2026.04.20-23.58.02:879][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
