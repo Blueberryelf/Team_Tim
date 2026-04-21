@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Content/W_Timer.uasset"
+				"C:/Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Content/W_Timer.uasset",
+				"C:/Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Content/VRTemplate/Blueprints/VRGameMode.uasset",
+				"C:/Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Content/VRTemplate/Blueprints/VRPawn.uasset"
 			]
 		}
 	]
