@@ -1306,3 +1306,68 @@ FPackageName: Skipped package /Game/VRTemplate/Maps/VRTemplateMap_BuiltData has 
 [2026.04.21-00.04.16:677][731]LogStreaming: Display: FlushAsyncLoading(343): 1 QueuedPackages, 0 AsyncPackages
 [2026.04.21-00.04.18:514][731]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2026.04.21-00.05.09:194][702]LogDerivedDataCache: C:/Users/ninte/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.21-00.08.38:284][609]LogSlate: Window 'GrabComponent' being destroyed
+[2026.04.21-00.08.38:295][609]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.04.21-00.08.38:295][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.21-00.08.38:429][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.04.21-00.08.41:436][945]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.04.21-00.08.41:437][945]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_1'.
+[2026.04.21-00.08.47:900][638]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 334.654938
+[2026.04.21-00.08.48:086][649]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-00.08.48:086][649]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 334.772430, Update Interval: 337.821594
+[2026.04.21-00.09.05:662][538]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.04.21-00.09.05:681][538]LogContentBrowser: Creating deferred item: NewFolder
+[2026.04.21-00.09.05:691][539]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.04.21-00.09.07:960][812]LogContentBrowser: Attempting asset rename: NewFolder -> Model
+[2026.04.21-00.09.07:960][812]LogContentBrowser: End creating deferred item NewFolder
+[2026.04.21-00.09.15:335][640]LogStreaming: Display: FlushAsyncLoading(517): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.21-00.09.21:712][640]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/ninte/Downloads/Map for alpha.obj]
+[2026.04.21-00.09.21:728][640]LogTemp: Display: Interchange Obj translator: Unknown keyword: s
+[2026.04.21-00.09.33:367][640]LogSlate: Window 'Import Content' being destroyed
+[2026.04.21-00.09.33:386][640]LogInterchangeEngine: [Pending] Importing
+[2026.04.21-00.09.33:447][641]LogStreaming: Display: FlushAsyncLoading(551): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.21-00.09.33:514][643]LogStreaming: Display: FlushAsyncLoading(558): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.21-00.09.33:606][645]LogStaticMesh: Display: Building static mesh Map_for_alpha (Required Memory Estimate: 12.444097 MB)...
+[2026.04.21-00.09.33:672][646]LogStaticMesh: Adjacency [0.00s], tris: 10872, UVs 1
+[2026.04.21-00.09.33:687][646]LogStaticMesh: Clustering [0.01s]. Ratio: 1.011765
+[2026.04.21-00.09.33:688][646]LogStaticMesh: Leaves [0.00s]
+[2026.04.21-00.09.33:704][647]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.04.21-00.09.33:704][647]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_2'.
+[2026.04.21-00.09.33:912][655]LogStaticMesh: Reduce [0.22s]
+[2026.04.21-00.09.34:008][666]LogStaticMesh: Fallback [0.10s], num tris: 1602
+[2026.04.21-00.09.34:068][673]LogStaticMesh: Fallback [0.06s], num tris: 933
+[2026.04.21-00.09.34:075][673]LogStaticMesh: ConstrainClusters:
+[2026.04.21-00.09.34:075][673]LogStaticMesh:   Input: 177 Clusters, 22335 Triangles and 29694 Vertices
+[2026.04.21-00.09.34:075][673]LogStaticMesh:   Output without splits: 177 Clusters, 22335 Triangles and 29699 Vertices
+[2026.04.21-00.09.34:075][673]LogStaticMesh:   Output with splits: 182 Clusters, 22335 Triangles and 29699 Vertices
+[2026.04.21-00.09.34:076][674]LogStaticMesh: Material Stats - Unique Materials: 7, Fast Path Clusters: 178, Slow Path Clusters: 4, 1 Material: 139, 2 Materials: 33, 3 Materials: 6, At Least 4 Materials: 4
+[2026.04.21-00.09.34:082][674]LogStaticMesh: WritePages:
+[2026.04.21-00.09.34:082][674]LogStaticMesh:   Root: GPU size: 30840 bytes. 1 Pages. 30840.000 bytes per page (94.116% utilization).
+[2026.04.21-00.09.34:082][674]LogStaticMesh:   Streaming: GPU size: 259968 bytes. 2 Pages (2 with relative encoding). 129984.000 bytes per page (99.170% utilization).
+[2026.04.21-00.09.34:082][674]LogStaticMesh:   Page data disk size: 227300 bytes. Fixup data size: 920 bytes.
+[2026.04.21-00.09.34:082][674]LogStaticMesh:   Total GPU size: 290808 bytes, Total disk size: 228220 bytes.
+[2026.04.21-00.09.34:082][674]LogStaticMesh: Encode [0.01s]
+[2026.04.21-00.09.34:082][674]LogStaticMesh: NaniteBuild [0.41s]
+[2026.04.21-00.09.34:132][680]LogStaticMesh: Built static mesh [0.53s] /Game/Model/Map_for_alpha.Map_for_alpha
+[2026.04.21-00.09.34:214][689]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=330.314 Y=-1208.901 Z=-116.172, BoxExtent=(X=2027.266 Y=1032.796 Z=1591.694), SphereRadius=(2835.369141)) and MeshDescription Bounds (Origin=X=363.497 Y=-1114.802 Z=-117.300, BoxExtent=(X=1994.084 Y=938.698 Z=1590.566), SphereRadius=(2207.672410)) is significative for StaticMesh /Game/Model/Map_for_alpha.Map_for_alpha
+[2026.04.21-00.09.35:799][799]LogMeshUtilities: Finished distance field build in 1.6s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 54% occupied, 0 triangles, Map_for_alpha
+[2026.04.21-00.09.37:002][939]LogInterchangeEngine: Display: Interchange import completed [C:/Users/ninte/Downloads/Map for alpha.obj]
+[2026.04.21-00.09.37:005][939]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.21-00.09.37:005][939]LogInterchangeEngine: [Success] Import Done
+[2026.04.21-00.09.37:012][940]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=330.314 Y=-1208.901 Z=-116.172, BoxExtent=(X=2027.266 Y=1032.796 Z=1591.694), SphereRadius=(2835.369141)) and MeshDescription Bounds (Origin=X=363.497 Y=-1114.802 Z=-117.300, BoxExtent=(X=1994.084 Y=938.698 Z=1590.566), SphereRadius=(2207.672410)) is significative for StaticMesh /Game/Model/Map_for_alpha.Map_for_alpha
+[2026.04.21-00.09.37:155][950]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.04.21-00.09.37:155][950]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_3'.
+[2026.04.21-00.09.41:141][363]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model/Map_for_alpha.Map_for_alpha
+[2026.04.21-00.09.41:141][363]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model/Map_for_alpha.Map_for_alpha
+[2026.04.21-00.09.41:142][363]LogActorFactory: Actor Factory spawned StaticMesh /Game/Model/Map_for_alpha.Map_for_alpha as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_0
+[2026.04.21-00.09.42:751][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.04.21-00.09.42:756][547]LogEditorActor: Deleted 0 Actors (0.043 secs)
+[2026.04.21-00.09.42:762][547]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model/Map_for_alpha.Map_for_alpha
+[2026.04.21-00.09.42:762][547]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model/Map_for_alpha.Map_for_alpha
+[2026.04.21-00.09.42:765][547]LogActorFactory: Actor Factory spawned StaticMesh /Game/Model/Map_for_alpha.Map_for_alpha as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_1
+[2026.04.21-00.09.52:316][625]Cmd: TRANSACTION UNDO
+[2026.04.21-00.09.52:317][625]LogEditorTransaction: Undo Set Rotation
+[2026.04.21-00.09.56:874][ 90]Cmd: TRANSACTION UNDO
+[2026.04.21-00.09.56:874][ 90]LogEditorTransaction: Undo Set Rotation
+[2026.04.21-00.09.57:186][100]Cmd: TRANSACTION UNDO
+[2026.04.21-00.09.57:186][100]LogEditorTransaction: Undo Place Objects
