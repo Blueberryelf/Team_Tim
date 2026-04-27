@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/grattray/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/grattray/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Content/Model/floor_and_walls.uasset",
+				"C:/Users/grattray/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Content/Model/rock_climbing_wall.uasset",
+				"C:/Users/grattray/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Content/Model/Rock_climbing_rocks.uasset",
 				"C:/Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"C:/Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Content/Model/Map_for_alpha.uasset",
 				"C:/Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Content/VRTemplate/Blueprints/GrabComponent.uasset",
