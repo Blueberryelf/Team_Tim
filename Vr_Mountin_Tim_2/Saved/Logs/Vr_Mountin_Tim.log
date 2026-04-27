@@ -1598,3 +1598,135 @@ The following settings have been applied:
 [2026.04.27-13.45.32:651][266]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.27-13.45.32:652][266]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap Validating asset
 [2026.04.27-13.45.32:703][266]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/blueb/OneDrive/Desktop/Unity_proto/Team_Tim/Vr_Mountin_Tim_2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.27-13.46.43:818][602]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Model/rock_climbing_wall.rock_climbing_wall
+[2026.04.27-13.46.43:955][602]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.04.27-13.46.43:956][602]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_4'.
+[2026.04.27-13.46.43:968][602]LogStreaming: Display: FlushAsyncLoading(344): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.27-13.46.43:983][602]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2026.04.27-13.46.44:005][602]LogStaticMesh: Built static mesh [0.03s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2026.04.27-13.46.44:031][602]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2026.04.27-13.46.44:033][602]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2026.04.27-13.47.57:456][940]LogShaderCompilers: Display: ================================================
+[2026.04.27-13.47.57:456][940]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.27-13.47.57:456][940]LogShaderCompilers: Display: Total job queries 378, among them cache hits 52 (13.76%), DDC hits 219 (57.94%), Duplicates 88 (23.28%)
+[2026.04.27-13.47.57:456][940]LogShaderCompilers: Display: Tracking 238 distinct input hashes that result in 149 distinct outputs (62.61%)
+[2026.04.27-13.47.57:456][940]LogShaderCompilers: Display: RAM used: 1.60 MiB of 819.20 MiB budget. Usage: 0.20%
+[2026.04.27-13.47.57:456][940]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.27-13.47.57:456][940]LogShaderCompilers: Display: Shaders Compiled: 19
+[2026.04.27-13.47.57:456][940]LogShaderCompilers: Display: Jobs assigned 19, completed 19 (100%)
+[2026.04.27-13.47.57:456][940]LogShaderCompilers: Display: Average time worker was idle: 150.87 s
+[2026.04.27-13.47.57:456][940]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.28 s
+[2026.04.27-13.47.57:456][940]LogShaderCompilers: Display: Job execution time: average 3.52 s, max 11.20 s
+[2026.04.27-13.47.57:456][940]LogShaderCompilers: Display: Job life time (pending + execution): average 3.59 s, max 11.24
+[2026.04.27-13.47.57:457][940]LogShaderCompilers: Display: Shader code size: total 240.637 KiB, numShaders 19, average 12.665 KiB, min 2.871 KiB, max 24.238 KiB
+[2026.04.27-13.47.57:457][940]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 40.77 s
+[2026.04.27-13.47.57:457][940]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.04.27-13.47.57:457][940]LogShaderCompilers: Display: Jobs were issued in 19 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.04.27-13.47.57:457][940]LogShaderCompilers: Display: Average processing rate: 0.47 jobs/sec
+[2026.04.27-13.47.57:457][940]LogShaderCompilers: Display: Total thread time: 52.257 s
+[2026.04.27-13.47.57:457][940]LogShaderCompilers: Display: Total thread preprocess time: 12.385 s
+[2026.04.27-13.47.57:457][940]LogShaderCompilers: Display: Percentage time preprocessing: 23.70%
+[2026.04.27-13.47.57:457][940]LogShaderCompilers: Display: Effective parallelization: 1.28 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.160200
+[2026.04.27-13.47.57:457][940]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.27-13.47.57:457][940]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 5.11 sec, max 5.62 sec, min 4.51 sec)
+[2026.04.27-13.47.57:457][940]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 3.50 sec, max 8.07 sec, min 1.81 sec)
+[2026.04.27-13.47.57:457][940]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    7 times, average 2.33 sec, max 3.16 sec, min 1.71 sec)
+[2026.04.27-13.47.57:457][940]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 1.42 sec, max 1.83 sec, min 1.22 sec)
+[2026.04.27-13.47.57:457][940]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 1.18 sec, max 1.18 sec, min 1.18 sec)
+[2026.04.27-13.47.57:457][940]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.27-13.47.57:457][940]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 31.22% of total time (compiled    7 times, average 2.33 sec, max 3.16 sec, min 1.71 sec)
+[2026.04.27-13.47.57:457][940]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 29.35% of total time (compiled    3 times, average 5.11 sec, max 5.62 sec, min 4.51 sec)
+[2026.04.27-13.47.57:457][940]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.79% of total time (compiled    4 times, average 3.50 sec, max 8.07 sec, min 1.81 sec)
+[2026.04.27-13.47.57:457][940]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.18% of total time (compiled    3 times, average 1.42 sec, max 1.83 sec, min 1.22 sec)
+[2026.04.27-13.47.57:457][940]LogShaderCompilers: Display:                                                  FHitProxyPS - 2.25% of total time (compiled    1 times, average 1.18 sec, max 1.18 sec, min 1.18 sec)
+[2026.04.27-13.47.57:457][940]LogShaderCompilers: Display: === Material stats ===
+[2026.04.27-13.47.57:457][940]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.27-13.47.57:457][940]LogShaderCompilers: Display: Materials Translated:    165
+[2026.04.27-13.47.57:457][940]LogShaderCompilers: Display: Material Total Translate Time: 0.35 s
+[2026.04.27-13.47.57:457][940]LogShaderCompilers: Display: Material Translation Only: 0.15 s (41%)
+[2026.04.27-13.47.57:457][940]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.04.27-13.47.57:457][940]LogShaderCompilers: Display: Material Cache Hits: 22 (13%)
+[2026.04.27-13.47.57:457][940]LogShaderCompilers: Display: ================================================
+[2026.04.27-13.48.19:839][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.04.27-13.48.21:225][101]LogSlate: Window 'Save Content' being destroyed
+[2026.04.27-13.48.21:249][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.27-13.48.21:383][101]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/rock_climbing_wall] ([1] browsable assets)...
+[2026.04.27-13.48.21:401][101]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/rock_climbing_wall.rock_climbing_wall]
+[2026.04.27-13.48.21:402][101]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/rock_climbing_wall]
+[2026.04.27-13.48.21:429][101]LogSavePackage: Moving output files for package: /Game/Model/rock_climbing_wall
+[2026.04.27-13.48.21:431][101]LogSavePackage: Moving '../../../../../../Users/blueb/OneDrive/Desktop/Unity_proto/Team_Tim/Vr_Mountin_Tim_2/Saved/rock_climbing_wall07A35ACB4B23CDBD3443A89B315C692D.tmp' to '../../../../../../Users/blueb/OneDrive/Desktop/Unity_proto/Team_Tim/Vr_Mountin_Tim_2/Content/Model/rock_climbing_wall.uasset'
+[2026.04.27-13.48.21:478][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 228.380 ms (total: 831.550 ms)
+[2026.04.27-13.48.21:623][101]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.27-13.48.21:623][101]LogContentValidation: Enabled validators:
+[2026.04.27-13.48.21:623][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.27-13.48.21:623][101]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.27-13.48.21:623][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.27-13.48.21:623][101]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.27-13.48.21:623][101]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.27-13.48.21:623][101]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.27-13.48.21:625][101]AssetCheck: /Game/Model/rock_climbing_wall Validating asset
+[2026.04.27-13.48.21:679][101]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/blueb/OneDrive/Desktop/Unity_proto/Team_Tim/Vr_Mountin_Tim_2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.27-13.48.34:395][756]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Model/mat.mat
+[2026.04.27-13.48.34:424][756]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.04.27-13.48.34:425][756]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_5'.
+[2026.04.27-13.48.49:361][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.04.27-13.48.50:399][363]LogSlate: Window 'Save Content' being destroyed
+[2026.04.27-13.48.50:426][363]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.27-13.48.50:576][363]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/mat] ([1] browsable assets)...
+[2026.04.27-13.48.50:591][363]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/mat.mat]
+[2026.04.27-13.48.50:591][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/mat]
+[2026.04.27-13.48.50:591][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/mat" FILE="../../../../../../Users/blueb/OneDrive/Desktop/Unity_proto/Team_Tim/Vr_Mountin_Tim_2/Content/Model/mat.uasset" SILENT=true
+[2026.04.27-13.48.50:616][363]LogSavePackage: Moving output files for package: /Game/Model/mat
+[2026.04.27-13.48.50:630][363]LogSavePackage: Moving '../../../../../../Users/blueb/OneDrive/Desktop/Unity_proto/Team_Tim/Vr_Mountin_Tim_2/Saved/mat1897C2E445C698FB5C794E99355ED956.tmp' to '../../../../../../Users/blueb/OneDrive/Desktop/Unity_proto/Team_Tim/Vr_Mountin_Tim_2/Content/Model/mat.uasset'
+[2026.04.27-13.48.50:672][363]LogFileHelpers: InternalPromptForCheckoutAndSave took 247.076 ms (total: 1.07 sec)
+[2026.04.27-13.48.50:811][363]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.27-13.48.50:811][363]LogContentValidation: Enabled validators:
+[2026.04.27-13.48.50:811][363]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.27-13.48.50:811][363]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.27-13.48.50:811][363]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.27-13.48.50:811][363]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.27-13.48.50:811][363]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.27-13.48.50:811][363]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.27-13.48.50:816][363]AssetCheck: /Game/Model/mat Validating asset
+[2026.04.27-13.48.50:870][363]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/blueb/OneDrive/Desktop/Unity_proto/Team_Tim/Vr_Mountin_Tim_2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.27-13.49.16:773][555]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Model/floor_and_walls.floor_and_walls
+[2026.04.27-13.49.16:825][555]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.04.27-13.49.16:826][555]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_6'.
+[2026.04.27-13.49.39:542][169]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 659.108337
+[2026.04.27-13.49.39:674][173]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.27-13.49.39:674][173]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 659.206909, Update Interval: 338.702362
+[2026.04.27-13.50.36:598][916]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Model/Map_for_alpha.Map_for_alpha
+[2026.04.27-13.50.36:622][916]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.04.27-13.50.36:624][916]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_7'.
+[2026.04.27-13.51.01:368][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.04.27-13.51.02:547][287]LogSlate: Window 'Save Content' being destroyed
+[2026.04.27-13.51.02:581][287]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.27-13.51.02:761][287]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/floor_and_walls] ([1] browsable assets)...
+[2026.04.27-13.51.02:785][287]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/floor_and_walls.floor_and_walls]
+[2026.04.27-13.51.02:786][287]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/floor_and_walls]
+[2026.04.27-13.51.02:786][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/floor_and_walls" FILE="../../../../../../Users/blueb/OneDrive/Desktop/Unity_proto/Team_Tim/Vr_Mountin_Tim_2/Content/Model/floor_and_walls.uasset" SILENT=true
+[2026.04.27-13.51.02:811][287]LogSavePackage: Moving output files for package: /Game/Model/floor_and_walls
+[2026.04.27-13.51.02:814][287]LogSavePackage: Moving '../../../../../../Users/blueb/OneDrive/Desktop/Unity_proto/Team_Tim/Vr_Mountin_Tim_2/Saved/floor_and_wallsB832807045CFEDB8E3F5809293F91569.tmp' to '../../../../../../Users/blueb/OneDrive/Desktop/Unity_proto/Team_Tim/Vr_Mountin_Tim_2/Content/Model/floor_and_walls.uasset'
+[2026.04.27-13.51.02:884][287]LogFileHelpers: InternalPromptForCheckoutAndSave took 302.369 ms (total: 1.38 sec)
+[2026.04.27-13.51.03:070][287]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.27-13.51.03:070][287]LogContentValidation: Enabled validators:
+[2026.04.27-13.51.03:070][287]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.27-13.51.03:070][287]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.27-13.51.03:070][287]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.27-13.51.03:070][287]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.27-13.51.03:071][287]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.27-13.51.03:071][287]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.27-13.51.03:073][287]AssetCheck: /Game/Model/floor_and_walls Validating asset
+[2026.04.27-13.51.03:173][287]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/blueb/OneDrive/Desktop/Unity_proto/Team_Tim/Vr_Mountin_Tim_2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.27-13.51.04:725][310]LogSlate: Window 'Map_for_alpha' being destroyed
+[2026.04.27-13.51.04:861][310]LogSlate: Window 'Map_for_alpha' being destroyed
+[2026.04.27-13.51.05:222][310]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.04.27-13.51.05:222][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.27-13.51.05:619][310]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.04.27-13.51.05:619][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.27-13.51.06:004][310]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.04.27-13.51.06:004][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.27-13.51.06:385][310]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.04.27-13.51.06:385][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.27-13.51.06:460][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2026.04.27-13.51.10:013][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
