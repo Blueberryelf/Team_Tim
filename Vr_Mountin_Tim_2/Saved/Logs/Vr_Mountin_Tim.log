@@ -1885,3 +1885,6 @@ The following settings have been applied:
 [2026.04.27-13.59.50:395][727]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:59914'.
 [2026.04.27-13.59.50:411][727]LogUdpMessaging: Display: Added local interface '10.83.194.32' to multicast group '230.0.0.1:6666'
 [2026.04.27-13.59.50:438][727]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.04.27-14.01.35:978][151]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1375.547241
+[2026.04.27-14.01.36:112][155]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.27-14.01.36:112][155]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1375.647461, Update Interval: 329.167755
