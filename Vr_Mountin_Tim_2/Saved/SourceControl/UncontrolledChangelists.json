@@ -5,9 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Content/VRTemplate/Maps/VRTemplateMap.umap",
-				"C:/Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Content/Model/Map_for_alpha.uasset",
-				"C:/Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Content/VRTemplate/Blueprints/GrabComponent.uasset",
 				"C:/Users/ninte/Downloads/Team_Tim/Vr_Mountin_Tim_2/Content/Model/initialShadingGroup.uasset",
 				"C:/Users/ninte/Downloads/Team_Tim/Vr_Mountin_Tim_2/Content/Model/standardSurface2SG.uasset",
 				"C:/Users/ninte/Downloads/Team_Tim/Vr_Mountin_Tim_2/Content/Model/standardSurface3SG.uasset",
@@ -15,7 +12,17 @@
 				"C:/Users/ninte/Downloads/Team_Tim/Vr_Mountin_Tim_2/Content/Model/standardSurface5SG.uasset",
 				"C:/Users/ninte/Downloads/Team_Tim/Vr_Mountin_Tim_2/Content/Model/standardSurface6SG.uasset",
 				"C:/Users/ninte/Downloads/Team_Tim/Vr_Mountin_Tim_2/Content/Model/standardSurface7SG.uasset",
-				"C:/Users/ninte/Downloads/Team_Tim/Vr_Mountin_Tim_2/Content/Model/Map_for_alpha.uasset"
+				"C:/Users/ninte/Downloads/Team_Tim/Vr_Mountin_Tim_2/Content/Model/Map_for_alpha.uasset",
+				"C:/Users/ninte/Downloads/Team_Tim/Vr_Mountin_Tim_2/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/ninte/Downloads/Team_Tim/Vr_Mountin_Tim_2/Content/Model/extreme_wall_finish_point_+_monkey_bars.uasset",
+				"C:/Users/ninte/Downloads/Team_Tim/Vr_Mountin_Tim_2/Content/Model/mat.uasset",
+				"C:/Users/ninte/Downloads/Team_Tim/Vr_Mountin_Tim_2/Content/Model/Rock_climbing_rocks.uasset",
+				"C:/Users/ninte/Downloads/Team_Tim/Vr_Mountin_Tim_2/Content/Model/rock_climbing_wall.uasset",
+				"C:/Users/ninte/Downloads/Team_Tim/Vr_Mountin_Tim_2/Content/Model/floor_and_walls.uasset",
+				"C:/Users/ninte/Downloads/Team_Tim/Vr_Mountin_Tim_2/Content/Model/Blue.uasset",
+				"C:/Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Content/Model/Map_for_alpha.uasset",
+				"C:/Users/blueb/OneDrive/Documents/GitHub/Team_Tim/Vr_Mountin_Tim_2/Content/VRTemplate/Blueprints/GrabComponent.uasset"
 			]
 		}
 	]
