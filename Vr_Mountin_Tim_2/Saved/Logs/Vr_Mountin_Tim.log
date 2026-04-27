@@ -2589,3 +2589,67 @@ Script Stack (0 frames) :
 [2026.04.27-14.33.29:717][913]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
 [2026.04.27-14.33.29:721][913]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
 [2026.04.27-14.33.30:056][914]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2026.04.27-14.35.17:538][ 77]Cmd: TRANSACTION UNDO
+[2026.04.27-14.35.17:538][ 77]LogEditorTransaction: Undo Move Elements
+[2026.04.27-14.35.18:408][107]Cmd: TRANSACTION UNDO
+[2026.04.27-14.35.18:408][107]LogEditorTransaction: Undo Clicking on Elements
+[2026.04.27-14.36.09:543][937]LogDebuggerCommands: Repeating last play command: VR Preview
+[2026.04.27-14.36.09:582][937]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.27-14.36.09:635][937]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2026.04.27-14.36.09:662][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025967s)
+[2026.04.27-14.36.09:662][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.026062s)
+[2026.04.27-14.36.09:710][937]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2026.04.27-14.36.09:716][937]LogChaosDD: Creating Chaos Debug Draw Scene for world VRTemplateMap
+[2026.04.27-14.36.09:718][937]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap'.
+[2026.04.27-14.36.09:718][937]LogPlayLevel: PIE: World Init took: (0.002855s)
+[2026.04.27-14.36.09:721][937]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.04.27-14.36.09:721][937]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.27-14.36.09:721][937]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.27-14.36.09:721][937]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.27-14.36.09:721][937]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.27-14.36.09:721][937]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.27-14.36.09:721][937]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.27-14.36.09:721][937]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.27-14.36.09:721][937]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.27-14.36.09:721][937]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.27-14.36.09:721][937]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.27-14.36.09:722][937]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.27-14.36.09:726][937]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.27-14.36.09:926][937]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.04.27-14.36.09:926][937]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.27-14.36.09:926][937]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.27-14.36.09:926][937]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.27-14.36.09:927][937]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.04.27-14.36.09:928][937]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.04.27-14.36.09:932][937]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.04.27-14.36.09:932][937]LogInit: FAudioDevice initialized with ID 11.
+[2026.04.27-14.36.09:932][937]LogAudio: Display: Audio Device (ID: 11) registered with world 'VRTemplateMap'.
+[2026.04.27-14.36.09:932][937]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.04.27-14.36.09:932][937]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.04.27-14.36.10:024][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.27-14.36.10:917][937]LogLoad: Game class is 'VRGameMode_C'
+[2026.04.27-14.36.10:926][937]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2026.04.27-10.36.10
+[2026.04.27-14.36.10:927][937]LogWorld: Bringing up level for play took: 0.009369
+[2026.04.27-14.36.10:931][937]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2026.04.27-14.36.10:938][937]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2026.04.27-14.36.10:940][937]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2026.04.27-14.36.10:943][937]xr.SecondaryScreenPercentage.HMDRenderTarget = "100"
+[2026.04.27-14.36.10:956][937]PIE: Server logged in
+[2026.04.27-14.36.10:963][937]PIE: Play in editor total start time 1.381 seconds.
+[2026.04.27-14.36.11:051][937]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2026.04.27-14.36.18:319][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.27-14.36.18:319][707]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2026.04.27-14.36.18:319][707]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.04.27-14.36.18:371][707]LogSlate: Window 'Vr_Mountin_Tim Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.117.0)' being destroyed
+[2026.04.27-14.36.18:375][707]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.27-14.36.18:379][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.27-14.36.18:380][707]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.27-14.36.18:391][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.27-14.36.18:441][707]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.27-14.36.18:441][707]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.04.27-14.36.18:442][707]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2026.04.27-14.36.18:446][707]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2026.04.27-14.36.18:460][707]LogSlate: Slate User Unregistered.  User Index 8
+[2026.04.27-14.36.18:460][707]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2026.04.27-14.36.18:463][707]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2026.04.27-14.36.18:822][708]LogPlayLevel: Display: Destroying online subsystem :Context_21
