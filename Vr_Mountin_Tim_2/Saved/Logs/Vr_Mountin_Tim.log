@@ -1730,3 +1730,32 @@ The following settings have been applied:
 [2026.04.27-13.51.06:385][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2026.04.27-13.51.06:460][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
 [2026.04.27-13.51.10:013][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.04.27-13.52.56:378][642]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.04.27-13.52.56:380][642]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_8'.
+[2026.04.27-13.52.57:132][654]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.04.27-13.52.57:133][654]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_9'.
+[2026.04.27-13.53.08:563][895]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/GrabComponent.GrabComponent
+[2026.04.27-13.53.08:564][895]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.04.27-13.53.08:566][895]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_10'.
+[2026.04.27-13.53.09:067][895]LogStreaming: Display: FlushAsyncLoading(350): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.27-13.53.12:077][895]LogSlate: Took 0.014137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.04.27-13.55.24:267][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2026.04.27-13.55.25:181][770]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1004.750305
+[2026.04.27-13.55.25:449][773]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.27-13.55.25:450][774]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1004.916870, Update Interval: 359.342621
+[2026.04.27-13.55.27:973][792]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.27-13.55.28:157][792]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRTemplate/Blueprints/GrabComponent] ([2] browsable assets)...
+[2026.04.27-13.55.28:157][792]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/GrabComponent]
+[2026.04.27-13.55.28:256][792]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/GrabComponent
+[2026.04.27-13.55.28:268][792]LogSavePackage: Moving '../../../../../../Users/blueb/OneDrive/Desktop/Unity_proto/Team_Tim/Vr_Mountin_Tim_2/Saved/GrabComponent8DFB53B54AEEF29ACC05359F08289AE4.tmp' to '../../../../../../Users/blueb/OneDrive/Desktop/Unity_proto/Team_Tim/Vr_Mountin_Tim_2/Content/VRTemplate/Blueprints/GrabComponent.uasset'
+[2026.04.27-13.55.28:342][792]LogFileHelpers: InternalPromptForCheckoutAndSave took 369.965 ms (total: 1.75 sec)
+[2026.04.27-13.55.28:524][792]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.27-13.55.28:524][792]LogContentValidation: Enabled validators:
+[2026.04.27-13.55.28:524][792]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.27-13.55.28:524][792]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.27-13.55.28:524][792]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.27-13.55.28:524][792]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.27-13.55.28:524][792]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.27-13.55.28:524][792]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.27-13.55.28:524][792]AssetCheck: /Game/VRTemplate/Blueprints/GrabComponent Validating asset
+[2026.04.27-13.55.28:674][792]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/blueb/OneDrive/Desktop/Unity_proto/Team_Tim/Vr_Mountin_Tim_2/Saved/SourceControl/UncontrolledChangelists.json
