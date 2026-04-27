@@ -1759,3 +1759,129 @@ The following settings have been applied:
 [2026.04.27-13.55.28:524][792]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.27-13.55.28:524][792]AssetCheck: /Game/VRTemplate/Blueprints/GrabComponent Validating asset
 [2026.04.27-13.55.28:674][792]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/blueb/OneDrive/Desktop/Unity_proto/Team_Tim/Vr_Mountin_Tim_2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.27-13.57.13:260][259]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.04.27-13.57.15:076][264]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:58950'.
+[2026.04.27-13.57.15:097][264]Could not fetch the local adapter addresses
+[2026.04.27-13.57.15:097][264]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2026.04.27-13.57.15:111][264]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.04.27-13.57.15:258][265]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.04.27-13.57.17:719][270]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:60225'.
+[2026.04.27-13.57.17:728][270]LogUdpMessaging: Display: Added local interface '10.82.194.45' to multicast group '230.0.0.1:6666'
+[2026.04.27-13.57.17:742][270]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.04.27-13.57.40:758][340]LogEOSSDK: Warning: LogHttp: 000001C2E0B45400: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B07996C00-4BFD-564D-96E8-8784F4CD975C%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.04.27-13.57.40:758][340]LogEOSSDK: Warning: LogHttp: 000001C2E0B45400: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2026.04.27-13.57.40:758][340]LogEOSSDK: Warning: LogHttp: 000001C2E0B45400: libcurl info message cache 0 (Connection 0 seems to be dead)
+[2026.04.27-13.57.40:758][340]LogEOSSDK: Warning: LogHttp: 000001C2E0B45400: libcurl info message cache 1 (Closing connection)
+[2026.04.27-13.57.40:758][340]LogEOSSDK: Warning: LogHttp: 000001C2E0B45400: libcurl info message cache 2 (Recv failure: Connection was reset)
+[2026.04.27-13.57.40:758][340]LogEOSSDK: Warning: LogHttp: 000001C2E0B45400: libcurl info message cache 3 (Send failure: Connection was reset)
+[2026.04.27-13.57.40:758][340]LogEOSSDK: Warning: LogHttp: 000001C2E0B45400: libcurl info message cache 4 (Recv failure: Connection was reset)
+[2026.04.27-13.57.40:758][341]LogEOSSDK: Warning: LogHttp: 000001C2E0B45400: libcurl info message cache 5 (  Trying 104.18.125.108:443...)
+[2026.04.27-13.57.40:758][341]LogEOSSDK: Warning: LogHttp: 000001C2E0B45400: libcurl info message cache 6 (Connected to api.epicgames.dev (104.18.125.108) port 443)
+[2026.04.27-13.57.40:758][341]LogEOSSDK: Warning: LogHttp: 000001C2E0B45400: libcurl info message cache 7 (ALPN: curl offers http/1.1)
+[2026.04.27-13.57.40:758][341]LogEOSSDK: Warning: LogHttp: 000001C2E0B45400: libcurl info message cache 8 (SSL reusing session ID)
+[2026.04.27-13.57.40:758][341]LogEOSSDK: Warning: LogHttp: 000001C2E0B45400: libcurl info message cache 9 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.04.27-13.57.40:758][341]LogEOSSDK: Warning: LogHttp: 000001C2E0B45400: libcurl info message cache 10 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2026.04.27-13.57.40:758][341]LogEOSSDK: Warning: LogHttp: 000001C2E0B45400: libcurl info message cache 11 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2026.04.27-13.57.40:758][341]LogEOSSDK: Warning: LogHttp: 000001C2E0B45400: libcurl info message cache 12 (TLSv1.2 (OUT), TLS alert, unknown CA (560):)
+[2026.04.27-13.57.40:759][341]LogEOSSDK: Warning: LogHttp: 000001C2E0B45400: libcurl info message cache 13 (SSL certificate problem: self signed certificate)
+[2026.04.27-13.57.40:759][341]LogEOSSDK: Warning: LogHttp: 000001C2E0B45400: libcurl info message cache 14 (Closing connection)
+[2026.04.27-13.57.40:759][341]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B07996C00-4BFD-564D-96E8-8784F4CD975C%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.04.27-13.57.42:758][346]LogHttp: Warning: 000001C2DFF87000: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2026.04.27-13.57.42:758][346]LogHttp: Warning: 000001C2DFF87000: libcurl info message cache 0 (Connection 0 seems to be dead)
+[2026.04.27-13.57.42:758][346]LogHttp: Warning: 000001C2DFF87000: libcurl info message cache 1 (shutting down connection #0)
+[2026.04.27-13.57.42:758][346]LogHttp: Warning: 000001C2DFF87000: libcurl info message cache 2 (Recv failure: Connection was reset)
+[2026.04.27-13.57.42:758][346]LogHttp: Warning: 000001C2DFF87000: libcurl info message cache 3 (Send failure: Connection was reset)
+[2026.04.27-13.57.42:758][346]LogHttp: Warning: 000001C2DFF87000: libcurl info message cache 4 (Recv failure: Connection was reset)
+[2026.04.27-13.57.42:758][346]LogHttp: Warning: 000001C2DFF87000: libcurl info message cache 5 (Host datarouter.ol.epicgames.com:443 was resolved.)
+[2026.04.27-13.57.42:758][346]LogHttp: Warning: 000001C2DFF87000: libcurl info message cache 6 (IPv6: (none))
+[2026.04.27-13.57.42:758][346]LogHttp: Warning: 000001C2DFF87000: libcurl info message cache 7 (IPv4: 98.90.180.137, 3.223.138.246, 34.230.139.23, 44.217.247.197, 44.218.205.56, 52.72.178.17, 54.84.191.156, 54.164.55.220)
+[2026.04.27-13.57.42:758][346]LogHttp: Warning: 000001C2DFF87000: libcurl info message cache 8 (  Trying 98.90.180.137:443...)
+[2026.04.27-13.57.42:758][346]LogHttp: Warning: 000001C2DFF87000: libcurl info message cache 9 (SSL reusing session)
+[2026.04.27-13.57.42:758][346]LogHttp: Warning: 000001C2DFF87000: libcurl info message cache 10 (ALPN: curl offers http/1.1)
+[2026.04.27-13.57.42:758][346]LogHttp: Warning: 000001C2DFF87000: libcurl info message cache 11 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.04.27-13.57.42:758][346]LogHttp: Warning: 000001C2DFF87000: libcurl info message cache 12 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2026.04.27-13.57.42:758][346]LogHttp: Warning: 000001C2DFF87000: libcurl info message cache 13 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2026.04.27-13.57.42:758][346]LogHttp: Warning: 000001C2DFF87000: libcurl info message cache 14 (TLSv1.2 (OUT), TLS alert, unknown CA (560):)
+[2026.04.27-13.57.42:758][346]LogHttp: Warning: 000001C2DFF87000: libcurl info message cache 15 (SSL certificate problem: self signed certificate)
+[2026.04.27-13.57.42:758][346]LogHttp: Warning: 000001C2DFF87000: libcurl info message cache 16 (closing connection #1)
+[2026.04.27-13.57.42:758][346]LogHttp: Warning: 000001C2DFF87000 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8A718112-4B2B-721C-C162-4BB55A343CA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=d3b8f0d04943990d1a632e83e9972157%7C4c4a291fb6ef4172a689ad0c22dafdb1%7C6bbae373-ea40-4c04-ad0b-22f9a4f7f21b&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'Other' after 0.08s
+[2026.04.27-13.58.40:769][520]LogEOSSDK: Warning: LogHttp: 000001C2C49E9600: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B07996C00-4BFD-564D-96E8-8784F4CD975C%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.04.27-13.58.40:769][520]LogEOSSDK: Warning: LogHttp: 000001C2C49E9600: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2026.04.27-13.58.40:769][520]LogEOSSDK: Warning: LogHttp: 000001C2C49E9600: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2026.04.27-13.58.40:769][520]LogEOSSDK: Warning: LogHttp: 000001C2C49E9600: libcurl info message cache 1 (  Trying 104.18.125.108:443...)
+[2026.04.27-13.58.40:769][520]LogEOSSDK: Warning: LogHttp: 000001C2C49E9600: libcurl info message cache 2 (Connected to api.epicgames.dev (104.18.125.108) port 443)
+[2026.04.27-13.58.40:769][521]LogEOSSDK: Warning: LogHttp: 000001C2C49E9600: libcurl info message cache 3 (ALPN: curl offers http/1.1)
+[2026.04.27-13.58.40:769][521]LogEOSSDK: Warning: LogHttp: 000001C2C49E9600: libcurl info message cache 4 (SSL reusing session ID)
+[2026.04.27-13.58.40:769][521]LogEOSSDK: Warning: LogHttp: 000001C2C49E9600: libcurl info message cache 5 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.04.27-13.58.40:769][521]LogEOSSDK: Warning: LogHttp: 000001C2C49E9600: libcurl info message cache 6 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2026.04.27-13.58.40:769][521]LogEOSSDK: Warning: LogHttp: 000001C2C49E9600: libcurl info message cache 7 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2026.04.27-13.58.40:769][521]LogEOSSDK: Warning: LogHttp: 000001C2C49E9600: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, unknown CA (560):)
+[2026.04.27-13.58.40:769][521]LogEOSSDK: Warning: LogHttp: 000001C2C49E9600: libcurl info message cache 9 (SSL certificate problem: self signed certificate)
+[2026.04.27-13.58.40:769][521]LogEOSSDK: Warning: LogHttp: 000001C2C49E9600: libcurl info message cache 10 (Closing connection)
+[2026.04.27-13.58.40:769][521]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B07996C00-4BFD-564D-96E8-8784F4CD975C%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.04.27-13.58.42:434][525]LogEOSSDK: Warning: LogHttp: 000001C2C49EF600: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F19AA79248F8F1BB30535B8A811F92FF, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.04.27-13.58.42:434][525]LogEOSSDK: Warning: LogHttp: 000001C2C49EF600: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2026.04.27-13.58.42:434][525]LogEOSSDK: Warning: LogHttp: 000001C2C49EF600: libcurl info message cache 0 (Hostname api.epicgames.dev was found in DNS cache)
+[2026.04.27-13.58.42:434][525]LogEOSSDK: Warning: LogHttp: 000001C2C49EF600: libcurl info message cache 1 (  Trying 104.18.125.108:443...)
+[2026.04.27-13.58.42:434][525]LogEOSSDK: Warning: LogHttp: 000001C2C49EF600: libcurl info message cache 2 (Connected to api.epicgames.dev (104.18.125.108) port 443)
+[2026.04.27-13.58.42:434][525]LogEOSSDK: Warning: LogHttp: 000001C2C49EF600: libcurl info message cache 3 (ALPN: curl offers http/1.1)
+[2026.04.27-13.58.42:434][525]LogEOSSDK: Warning: LogHttp: 000001C2C49EF600: libcurl info message cache 4 (SSL reusing session ID)
+[2026.04.27-13.58.42:434][525]LogEOSSDK: Warning: LogHttp: 000001C2C49EF600: libcurl info message cache 5 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.04.27-13.58.42:434][525]LogEOSSDK: Warning: LogHttp: 000001C2C49EF600: libcurl info message cache 6 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2026.04.27-13.58.42:434][525]LogEOSSDK: Warning: LogHttp: 000001C2C49EF600: libcurl info message cache 7 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2026.04.27-13.58.42:434][526]LogEOSSDK: Warning: LogHttp: 000001C2C49EF600: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, unknown CA (560):)
+[2026.04.27-13.58.42:434][526]LogEOSSDK: Warning: LogHttp: 000001C2C49EF600: libcurl info message cache 9 (SSL certificate problem: self signed certificate)
+[2026.04.27-13.58.42:434][526]LogEOSSDK: Warning: LogHttp: 000001C2C49EF600: libcurl info message cache 10 (Closing connection)
+[2026.04.27-13.58.42:434][526]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F19AA79248F8F1BB30535B8A811F92FF
+[2026.04.27-13.58.42:434][526]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2026.04.27-13.58.42:768][526]LogHttp: Warning: 000001C2DFF8D900: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2026.04.27-13.58.42:768][526]LogHttp: Warning: 000001C2DFF8D900: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2026.04.27-13.58.42:768][526]LogHttp: Warning: 000001C2DFF8D900: libcurl info message cache 1 (Host datarouter.ol.epicgames.com:443 was resolved.)
+[2026.04.27-13.58.42:768][526]LogHttp: Warning: 000001C2DFF8D900: libcurl info message cache 2 (IPv6: (none))
+[2026.04.27-13.58.42:768][526]LogHttp: Warning: 000001C2DFF8D900: libcurl info message cache 3 (IPv4: 52.204.129.28, 52.206.209.175, 54.144.188.142, 3.208.53.205, 32.194.215.172, 52.0.7.168, 52.6.140.39, 52.6.199.106)
+[2026.04.27-13.58.42:768][526]LogHttp: Warning: 000001C2DFF8D900: libcurl info message cache 4 (  Trying 52.204.129.28:443...)
+[2026.04.27-13.58.42:768][526]LogHttp: Warning: 000001C2DFF8D900: libcurl info message cache 5 (ALPN: curl offers http/1.1)
+[2026.04.27-13.58.42:768][526]LogHttp: Warning: 000001C2DFF8D900: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.04.27-13.58.42:768][526]LogHttp: Warning: 000001C2DFF8D900: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2026.04.27-13.58.42:768][526]LogHttp: Warning: 000001C2DFF8D900: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2026.04.27-13.58.42:768][526]LogHttp: Warning: 000001C2DFF8D900: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, unknown CA (560):)
+[2026.04.27-13.58.42:768][526]LogHttp: Warning: 000001C2DFF8D900: libcurl info message cache 10 (SSL certificate problem: self signed certificate)
+[2026.04.27-13.58.42:768][526]LogHttp: Warning: 000001C2DFF8D900: libcurl info message cache 11 (closing connection #2)
+[2026.04.27-13.58.42:768][526]LogHttp: Warning: 000001C2DFF8D900 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8A718112-4B2B-721C-C162-4BB55A343CA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=d3b8f0d04943990d1a632e83e9972157%7C4c4a291fb6ef4172a689ad0c22dafdb1%7C6bbae373-ea40-4c04-ad0b-22f9a4f7f21b&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'Other' after 0.09s
+[2026.04.27-13.59.40:774][700]LogEOSSDK: Warning: LogHttp: 000001C2C49EC000: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B07996C00-4BFD-564D-96E8-8784F4CD975C%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.04.27-13.59.40:774][700]LogEOSSDK: Warning: LogHttp: 000001C2C49EC000: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2026.04.27-13.59.40:774][700]LogEOSSDK: Warning: LogHttp: 000001C2C49EC000: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2026.04.27-13.59.40:774][700]LogEOSSDK: Warning: LogHttp: 000001C2C49EC000: libcurl info message cache 1 (  Trying 104.18.125.108:443...)
+[2026.04.27-13.59.40:774][700]LogEOSSDK: Warning: LogHttp: 000001C2C49EC000: libcurl info message cache 2 (Connected to api.epicgames.dev (104.18.125.108) port 443)
+[2026.04.27-13.59.40:774][701]LogEOSSDK: Warning: LogHttp: 000001C2C49EC000: libcurl info message cache 3 (ALPN: curl offers http/1.1)
+[2026.04.27-13.59.40:774][701]LogEOSSDK: Warning: LogHttp: 000001C2C49EC000: libcurl info message cache 4 (SSL reusing session ID)
+[2026.04.27-13.59.40:775][701]LogEOSSDK: Warning: LogHttp: 000001C2C49EC000: libcurl info message cache 5 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.04.27-13.59.40:775][701]LogEOSSDK: Warning: LogHttp: 000001C2C49EC000: libcurl info message cache 6 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2026.04.27-13.59.40:775][701]LogEOSSDK: Warning: LogHttp: 000001C2C49EC000: libcurl info message cache 7 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2026.04.27-13.59.40:775][701]LogEOSSDK: Warning: LogHttp: 000001C2C49EC000: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, unknown CA (560):)
+[2026.04.27-13.59.40:775][701]LogEOSSDK: Warning: LogHttp: 000001C2C49EC000: libcurl info message cache 9 (SSL certificate problem: self signed certificate)
+[2026.04.27-13.59.40:775][701]LogEOSSDK: Warning: LogHttp: 000001C2C49EC000: libcurl info message cache 10 (Closing connection)
+[2026.04.27-13.59.40:775][701]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B07996C00-4BFD-564D-96E8-8784F4CD975C%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.04.27-13.59.42:774][706]LogHttp: Warning: 000001C2DFF8E000: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2026.04.27-13.59.42:774][706]LogHttp: Warning: 000001C2DFF8E000: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2026.04.27-13.59.42:774][706]LogHttp: Warning: 000001C2DFF8E000: libcurl info message cache 1 (Host datarouter.ol.epicgames.com:443 was resolved.)
+[2026.04.27-13.59.42:774][706]LogHttp: Warning: 000001C2DFF8E000: libcurl info message cache 2 (IPv6: (none))
+[2026.04.27-13.59.42:774][706]LogHttp: Warning: 000001C2DFF8E000: libcurl info message cache 3 (IPv4: 34.236.56.225, 52.5.248.34, 52.86.72.232, 52.91.102.65, 3.212.157.67, 3.218.218.219, 18.214.212.182, 23.23.95.205)
+[2026.04.27-13.59.42:774][706]LogHttp: Warning: 000001C2DFF8E000: libcurl info message cache 4 (  Trying 34.236.56.225:443...)
+[2026.04.27-13.59.42:774][706]LogHttp: Warning: 000001C2DFF8E000: libcurl info message cache 5 (ALPN: curl offers http/1.1)
+[2026.04.27-13.59.42:774][707]LogHttp: Warning: 000001C2DFF8E000: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.04.27-13.59.42:774][707]LogHttp: Warning: 000001C2DFF8E000: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2026.04.27-13.59.42:774][707]LogHttp: Warning: 000001C2DFF8E000: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2026.04.27-13.59.42:774][707]LogHttp: Warning: 000001C2DFF8E000: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, unknown CA (560):)
+[2026.04.27-13.59.42:774][707]LogHttp: Warning: 000001C2DFF8E000: libcurl info message cache 10 (SSL certificate problem: self signed certificate)
+[2026.04.27-13.59.42:774][707]LogHttp: Warning: 000001C2DFF8E000: libcurl info message cache 11 (closing connection #3)
+[2026.04.27-13.59.42:774][707]LogHttp: Warning: 000001C2DFF8E000 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8A718112-4B2B-721C-C162-4BB55A343CA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=d3b8f0d04943990d1a632e83e9972157%7C4c4a291fb6ef4172a689ad0c22dafdb1%7C6bbae373-ea40-4c04-ad0b-22f9a4f7f21b&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'Other' after 0.19s
+[2026.04.27-13.59.46:106][716]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.04.27-13.59.47:942][721]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:55836'.
+[2026.04.27-13.59.47:968][721]Could not fetch the local adapter addresses
+[2026.04.27-13.59.47:968][721]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2026.04.27-13.59.47:983][721]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.04.27-13.59.48:106][722]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.04.27-13.59.50:395][727]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:59914'.
+[2026.04.27-13.59.50:411][727]LogUdpMessaging: Display: Added local interface '10.83.194.32' to multicast group '230.0.0.1:6666'
+[2026.04.27-13.59.50:438][727]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
